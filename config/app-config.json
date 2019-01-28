@@ -1,0 +1,9 @@
+{
+    "foo": "bar",
+    "greeter": {
+        "command": "dotnet",
+        "args": [
+            "../out-of-proc-server/examples/GreeterServer/bin/Debug/netcoreapp2.2/GreeterServer.dll"
+        ]
+    }
+}
