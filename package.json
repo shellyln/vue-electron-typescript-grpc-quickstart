@@ -9,8 +9,8 @@
     "gRPC",
     "out-of-proc-server"
   ],
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.1.4",
+  "private": false,
   "scripts": {
     "start": "electron .",
     "pack": "electron-builder --dir -c electron-builder.yml",
